@@ -1,0 +1,9 @@
+p {
+    font-size: large;
+    color: blue;
+    font-style: italic;
+}
+
+.highlight {
+    background-color: brown;
+}

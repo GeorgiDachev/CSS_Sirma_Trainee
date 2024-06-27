@@ -1,0 +1,9 @@
+.box-model {
+    width: 200px;
+    height: 100px; 
+    padding: 20px;
+    border: 2px solid #333; 
+    margin: 30px; 
+    text-align: center; 
+    box-sizing: border-box; 
+}

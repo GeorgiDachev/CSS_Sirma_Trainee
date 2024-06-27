@@ -1,0 +1,6 @@
+.parent > p {
+     font-family: 'Times New Roman', Times, serif;
+     margin: 25px;
+     color: blueviolet;
+     background-color: rgb(184, 184, 203);
+}

@@ -1,0 +1,19 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: blue;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color: chocolate;
+    
+}
+
+div {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+color: burlywood;
+background-color: green;
+}

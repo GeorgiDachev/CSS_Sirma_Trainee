@@ -1,0 +1,5 @@
+.width-example {
+    width: 50%;
+    min-width: 15%;
+    max-width: 85%;
+}

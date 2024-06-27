@@ -1,0 +1,15 @@
+div p {
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    margin: 25px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+div > p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    margin: 10px;
+    padding: 10px;
+    font-style: italic;
+}
